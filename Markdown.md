@@ -53,13 +53,11 @@ ___
 > # Hyperlink
 
 [google](https://www.google.com)
-[fb]:https:www.facebook.com
-[facebook](fb)
 
 
 > # Picture
 
-![success](C:\Users\HP\OneDrive\Desktop\QA TEST submission.png)
+![success]([C:\Users\HP\OneDrive\Desktop\QA TEST submission.png](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg))
 
 
 > # Code
@@ -68,6 +66,12 @@ This is for single line of code `print("Hello World")`
 
 This is a block of code 
 ```
+x = 5
+y = 10
+
+z = x = y
+
+print(z)
 
 ```
  
