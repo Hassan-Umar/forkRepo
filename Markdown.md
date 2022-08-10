@@ -65,7 +65,7 @@ ___
 This is for single line of code `print("Hello World")`
 
 This is a block of code 
-```
+```python
 x = 5
 y = 10
 
